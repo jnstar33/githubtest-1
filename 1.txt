@@ -1,2 +1,4 @@
 foo
 master fix
+feature
+feature2
